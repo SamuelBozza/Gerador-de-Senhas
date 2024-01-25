@@ -14,7 +14,7 @@
     <li>Clone este repositório para o seu ambiente local:</li>
     <pre><code>git clone https://github.com/SamuelBozza/Gerador-de-Senhas.git</code></pre>
   <li>Navegue até o diretório do projeto:</li>
-  <pre><code>cd nome-do-projeto</code></pre>
+  <pre><code>cd Gerador-de-Senhas</code></pre>
 
   <li>Instale as dependências do projeto:</li>
   <pre><code>npm install</code></pre>
@@ -31,9 +31,9 @@
   <ol>
     <li>Baixe o aplicativo Expo Go na <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en">Play Store</a> ou na <a href="https://apps.apple.com/us/app/expo-go/id982107779">App Store</a>.</li>
 
-    <li>Abra o aplicativo Expo Go e clique em "Scan QR Code".</li>
+  <li>Abra o aplicativo Expo Go e clique em "Scan QR Code".</li>
 
-    <li>Escaneie o QR code exibido no seu navegador durante o passo 4.</li>
+  <li>Escaneie o QR code exibido no seu navegador durante o passo 4.</li>
   </ol>
 
   <h2>Funcionalidades do Aplicativo</h2>
