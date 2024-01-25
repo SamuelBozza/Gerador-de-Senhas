@@ -12,17 +12,17 @@
 
   <ol>
     <li>Clone este repositório para o seu ambiente local:</li>
-    <pre><code>git clone https://github.com/seu-usuario/nome-do-projeto.git</code></pre>
+    <pre><code>git clone https://github.com/SamuelBozza/Gerador-de-Senhas.git</code></pre>
+  <li>Navegue até o diretório do projeto:</li>
+  <pre><code>cd nome-do-projeto</code></pre>
 
-    <li>Navegue até o diretório do projeto:</li>
-    <pre><code>cd nome-do-projeto</code></pre>
+  <li>Instale as dependências do projeto:</li>
+  <pre><code>npm install</code></pre>
 
-    <li>Instale as dependências do projeto:</li>
-    <pre><code>npm install</code></pre>
+  <li>Inicie o projeto utilizando o Expo:</li>
+  <pre><code>npm start</code></pre>
+   </ol>
 
-    <li>Inicie o projeto utilizando o Expo:</li>
-    <pre><code>npm start</code></pre>
-  </ol>
 
   <p>Isso abrirá o ambiente de desenvolvimento do Expo no seu navegador. A partir daí, você pode escolher rodar o aplicativo em um emulador ou escanear o QR code com o aplicativo Expo no seu dispositivo móvel.</p>
 
