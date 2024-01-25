@@ -1,9 +1,5 @@
   <h1>Gerador de Senhas - React Native App</h1>
 
-  <p align="center">
-    <img src="link-da-imagem-do-app" alt="Imagem do App">
-  </p>
-
   <h2>Descrição</h2>
 
   <p>
